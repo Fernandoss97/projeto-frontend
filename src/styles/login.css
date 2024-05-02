@@ -6,7 +6,7 @@ html, body {
 
 .ctBackground{
   background-color: #eafde6;
-  padding: 100px;
+  padding: 200px;
   height: 100%;
 }
 
@@ -64,7 +64,6 @@ html, body {
 .form{
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
 }
 
 .ctEmailInput{
@@ -86,7 +85,6 @@ html, body {
 
 .ctContentBottom{
   display: flex;
-  
   flex: 0.60;
   flex-direction: column;
   justify-content: space-around;
