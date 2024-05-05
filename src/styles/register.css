@@ -77,6 +77,11 @@ html, body {
   border-radius: 10px;
 }
 
+#btRegister a{
+  text-decoration: none;
+  color: #ffffff;
+}
+
 #userName, #userSurname, #userEmail, #userPass, #confirmPass{
   border: 0.5px solid #1d9b94;
   border-radius: 5px;
